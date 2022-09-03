@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Selenium Webdriver, Cucumber, API Testing**
 
-- 💬 Ask me about **Python, Testig**
+- 💬 Ask me about **Python, Testing**
 
 - 📫 How to reach me **prameshkumarsaha@gmail.com**
 
